@@ -11,8 +11,8 @@
   - [Sokoban Craze](https://github.com/prembhaskal/sokoban), 2014, A simple puzzle game. It was published in chrome web store in past.
   - lot of other unfinished projects and tools, check out my repos, I hope to finish them soon 😢.
 - Coding competitions
-  - As a young engineer, I used to participate in CodeChef competitions [codechef_profile](https://www.codechef.com/users/defacto)
-  - Also I used to be active on related sites, https://projecteuler.net/progress=prembhaskal.
+  - I Practice data structure and algorithms to keep my knowledge and coding skills fresh https://leetcode.com/pbhaskal/ 
+  - Previously I participated in CodeChef competitions [codechef_profile](https://www.codechef.com/users/defacto) and related sites [Project Euler](https://projecteuler.net/progress=prembhaskal).
 - Learnings
   - I am currently learning React and advanced software architecture and design.
   - I read linux and technical blogs from Google, Netflix, Twitter, Meta whenever I get time.
