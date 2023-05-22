@@ -5,7 +5,7 @@
 - I mainly program in Java and Go. I occasionally use Javascript, Python and Bash too.
 - Below is list of my current and past projects:
   - [Nokia](https://www.nokia.com/), 2015-Current, I am working as lead engineer on NetAct (VMware based) and NOM (kubernetes based) product. Used Java, Go, Oracle, Kubernetes, Kafka, Helm, Docker, Rest, Microservices, MariaDB, ElasticSearch, S3(minIO/Noobaa) etc.
-  - [Subex](https://www.subex.com/), 2012=2014, I have worked on ROC Revenue Assurance product. Used Java, Hibernate, Oracle.
+  - [Subex](https://www.subex.com/), 2012-2014, I have worked on ROC Revenue Assurance product. Used Java, Hibernate, Oracle.
   - In [OFSS](https://www.linkedin.com/company/oracle-financial-services-software-limited/?originalSubdomain=in), 2010-2012, joined as a fresher, worked on OIPA insurance product. Learnt and used Java, Oracle.
   - [Freelords](https://sourceforge.net/projects/freelords/), 2010-2017, My first side project. A turn based strategy game written in Java.
   - [Sokoban Craze](https://github.com/prembhaskal/sokoban), 2014, A simple puzzle game. It was published in chrome web store in past.
