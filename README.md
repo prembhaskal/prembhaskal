@@ -2,7 +2,7 @@
 
 - I am currently working in Nokia Networks as Software Engineer. Previously worked in Subex and OFSS(Oracle Financial Services Software Ltd.).
 - I have 13+ years of industry experience in developing software products and features.
-- I mainly program in Java and Go. I occasionally use Javascript, Python and Bash on need basis.
+- I mainly program in Java and Go. I occasionally use Javascript, Python and Bash too.
 - Below is list of the current and past projects:
   - In [Nokia](https://www.nokia.com/), I am working on NetAct (VMware based) and NOM (kubernetes based) products. Involved in complete software developement lifecyle, Prestudy, PoC, design, developement, deployment and maintenance. Used Java, Go, Linux, Oracle, Kubernetes, Kafka, Helm, Docker, Rest, Microservices, MariaDB, ElasticSearch, S3(minIO/Noobaa) etc.
   - In [Subex](https://www.subex.com/), I have worked on ROC Revenue Assurance product. Use Java, Hibernate, Oracle.
