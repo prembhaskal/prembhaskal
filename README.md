@@ -14,7 +14,7 @@
   - As a young engineer, I used to participate in CodeChef competitions [codechef_profile](https://www.codechef.com/users/defacto)
   - Also I used to be active on related sites, https://projecteuler.net/progress=prembhaskal.
 - Learnings
-  - I am currently learning React and System design in Distributed Software Architecture.
+  - I am currently learning React and advanced Distributed Software architecture and Design.
   - I read linux and technical blogs from Google, Netflix, Twitter, Meta whenever I get time.
   - I plan to learn Rust by the end of 2023, 🤞, Wish me Luck!!!
 - How to reach me:
