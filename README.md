@@ -1,4 +1,4 @@
-### Hi there, Prem here 👋
+### Hi, Prem here 👋
 
 - I am currently working in Nokia Networks as Software Engineer. Previously worked in Subex and OFSS(Oracle Financial Services Software Ltd.).
 - I have 13+ years of industry experience in developing software products and features.
