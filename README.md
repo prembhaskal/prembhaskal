@@ -15,7 +15,7 @@
   - Previously I participated in CodeChef competitions [codechef_profile](https://www.codechef.com/users/defacto) and related sites [Project Euler](https://projecteuler.net/progress=prembhaskal).
 - Learnings
   - I am currently learning React and advanced software architecture and design.
-  - I read linux and technical blogs from Google, Netflix, Twitter, Meta whenever I get time.
+  - I read Linux and technical blogs from Google, Netflix, Twitter, Meta whenever I get time.
   - I plan to learn Rust by the end of 2023, 🤞, Wish me Luck!!!
 - How to reach me:
   - Connect with me on linked in here [linkedin-profile](https://www.linkedin.com/in/premkumar-bhaskal-aa990a21/)
