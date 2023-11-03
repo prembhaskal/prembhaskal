@@ -1,10 +1,10 @@
 ### Hi, Prem here 👋
 
-- I am currently working in VMWare as Software Engineer. Previously worked in Nokia Networks, Subex and OFSS(Oracle Financial Services Software Ltd.).
+- I am currently working in VMware as Software Engineer. Previously worked in Nokia Networks, Subex and OFSS(Oracle Financial Services Software Ltd.).
 - I have 13+ years of industry experience in developing software products and features.
 - I mainly program in Java and Go. I occasionally use Javascript, Python and Bash too.
 - Below is list of my current and past projects:
-  -  [VMWare](https://www.vmware.com), 2023-Current, SMTS in TAP Carvel project. Just started here...
+  -  [VMware](https://www.vmware.com), 2023-Current, SMTS in TAP Carvel project. Just started here...
   -  [Nokia](https://www.nokia.com/), 2015-2023, worked as lead engineer on NetAct (VMware based) and NOM (kubernetes based) product. Used Java, Go, Oracle, Kubernetes, Kafka, Helm, Docker, Rest, Microservices, MariaDB, ElasticSearch, S3(minIO/Noobaa) etc.
   - [Subex](https://www.subex.com/), 2012-2014, I have worked on ROC Revenue Assurance product. Used Java, Hibernate, Oracle.
   - In [OFSS](https://www.linkedin.com/company/oracle-financial-services-software-limited/?originalSubdomain=in), 2010-2012, joined as a fresher, worked on OIPA insurance product. Learnt and used Java, Oracle.
