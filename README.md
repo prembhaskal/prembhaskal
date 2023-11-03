@@ -1,6 +1,6 @@
 ### Hi, Prem here 👋
 
-- I am currently working in Nokia Networks as Software Engineer. Previously worked in Subex and OFSS(Oracle Financial Services Software Ltd.).
+- I am currently working in VMWare as Software Engineer. Previously worked in Nokia Networks, Subex and OFSS(Oracle Financial Services Software Ltd.).
 - I have 13+ years of industry experience in developing software products and features.
 - I mainly program in Java and Go. I occasionally use Javascript, Python and Bash too.
 - Below is list of my current and past projects:
