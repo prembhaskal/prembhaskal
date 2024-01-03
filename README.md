@@ -17,7 +17,7 @@
 - Learnings
   - I am currently learning React and advanced software architecture and design.
   - I read Linux and technical blogs from Google, Netflix, Twitter, Meta whenever I get time.
-  - I plan to learn Rust by the end of 2023, 🤞, Wish me Luck!!!
+  - I plan to learn Rust by the end of 2024, 🤞, Wish me Luck!!!
 - How to reach me:
   - Connect with me on linked in here [linkedin-profile](https://www.linkedin.com/in/premkumar-bhaskal-aa990a21/)
 <!--
