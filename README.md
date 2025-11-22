@@ -1,6 +1,6 @@
 ### Hi, Prem here 👋
 
-- I am currently working in VMware as Software Engineer. Previously worked in Nokia Networks, Subex and OFSS(Oracle Financial Services Software Ltd.).
+- I am currently working in Intuit as Software Engineer. Previously worked in VMWare, Nokia Networks, Subex and OFSS(Oracle Financial Services Software Ltd.).
 - I have 14+ years of industry experience in developing software products and features.
 - I mainly program in Java and Go. I occasionally use Javascript, Python and Bash too.
 - Below is list of my current and past projects:
