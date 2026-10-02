@@ -4,7 +4,7 @@
 - I have 14+ years of industry experience in developing software products and features.
 - I mainly program in Java and Go. I occasionally use Javascript, Python and Bash too.
 - Below is list of my current and past projects:
-  -  [Intuit](https://www.intuit.com/in/), 2024-Current
+  -  [Intuit](https://www.intuit.com/in/), 2024-Current, Staff Engineer in Traffic team - API-Gateway/Service mesh.
   -  [VMware](https://www.vmware.com), 2023-2024, SMTS in [Carvel](https://carvel.dev/) project, working on new Tanzu Application Platform (TAP) using multi-tenancy [KCP](https://github.com/kcp-dev/kcp). Here I mainly work on Kubernetes writing custom controllers and maintaining Carvel tools. 
   -  [Nokia](https://www.nokia.com/), 2015-2023, worked as lead engineer on NetAct (VMware based) and NOM (kubernetes based) product. Used Java, Go, Oracle, Kubernetes, Kafka, Helm, Docker, Rest, Microservices, MariaDB, ElasticSearch, S3(minIO/Noobaa) etc.
   - [Subex](https://www.subex.com/), 2012-2014, I have worked on ROC Revenue Assurance product. Used Java, Hibernate, Oracle.
